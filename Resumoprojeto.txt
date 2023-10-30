@@ -1,0 +1,3 @@
+Resumo do Projeto
+
+O projeto será um jogo da velha, feito com html, css e java script. Ele será jogado por duas pessoas, terá as mesmas regras de um jogo da velha normal ou no papel. Assim que houver um ganhador será mostrada uma mensagem de quem foi o ganhador, caso nao haja ganhador, você poderá recarregar a página para jogá-lo novamente.
